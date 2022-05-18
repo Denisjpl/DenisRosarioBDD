@@ -1,0 +1,1693 @@
+trabajador_id,nombre,fecha_nacimiento,pasaporte,nombre_compania,codigo_compania,vuelo_id,rol
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,78.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,124.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,101.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,35.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,137.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,65.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,15.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,41.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,117.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,7.0,Paramedico
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,94.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,27.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,117.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,11.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,137.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,89.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,85.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,65.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,87.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,112.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,96.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,105.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,112.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,136.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,92.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,45.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,28.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,25.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,123.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,80.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,95.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,55.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,25.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,136.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,121.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,137.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,74.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,29.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,109.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,108.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,108.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,132.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,50.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,138.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,43.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,121.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,91.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,138.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,27.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,135.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,146.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,26.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,140.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,75.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,128.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,103.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,54.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,22.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,90.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,146.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,24.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,124.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,38.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,91.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,104.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,29.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,77.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,41.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,119.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,97.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,29.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,144.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,98.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,108.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,89.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,111.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,73.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,113.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,6.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,52.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,23.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,53.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,33.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,109.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,36.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,40.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,118.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,33.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,18.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,136.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,14.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,41.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,38.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,74.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,46.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,138.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,81.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,106.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,9.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,97.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,105.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,12.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,142.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,28.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,28.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,121.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,45.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,77.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,95.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,141.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,78.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,78.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,140.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,12.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,108.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,134.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,19.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,106.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,28.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,142.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,110.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,12.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,27.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,84.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,39.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,127.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,73.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,59.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,11.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,51.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,119.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,112.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,110.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,27.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,66.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,37.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,21.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,137.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,0.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,38.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,42.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,140.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,87.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,44.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,143.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,101.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,36.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,80.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,24.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,97.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,38.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,91.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,120.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,144.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,33.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,141.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,137.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,8.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,136.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,102.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,1.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,30.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,4.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,58.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,27.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,53.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,118.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,110.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,137.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,29.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,42.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,25.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,35.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,96.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,38.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,109.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,105.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,109.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,8.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,81.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,136.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,109.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,98.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,125.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,85.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,48.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,85.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,45.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,142.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,142.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,124.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,138.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,26.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,130.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,9.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,129.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,138.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,33.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,48.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,80.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,47.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,26.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,48.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,2.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,113.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,11.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,138.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,117.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,36.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,65.0,Paramedico
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,97.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,138.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,50.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,76.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,50.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,108.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,101.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,144.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,37.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,51.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,33.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,50.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,50.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,89.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,59.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,13.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,38.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,13.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,81.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,71.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,90.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,33.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,34.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,139.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,140.0,Paramedico
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,100.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,78.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,108.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,121.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,72.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,50.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,63.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,114.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,68.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,21.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,80.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,34.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,91.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,121.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,142.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,108.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,43.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,9.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,93.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,37.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,28.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,35.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,74.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,77.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,49.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,14.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,59.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,124.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,132.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,6.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,104.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,14.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,105.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,81.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,137.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,111.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,72.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,44.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,73.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,115.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,54.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,109.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,103.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,1.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,44.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,46.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,141.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,33.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,62.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,23.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,148.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,18.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,147.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,139.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,33.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,40.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,111.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,114.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,131.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,0.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,15.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,137.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,107.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,6.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,4.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,97.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,115.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,23.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,132.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,143.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,34.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,46.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,68.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,42.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,108.0,Paramedico
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,92.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,11.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,125.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,120.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,115.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,41.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,109.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,114.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,85.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,22.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,138.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,6.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,122.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,84.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,6.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,68.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,121.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,130.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,91.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,57.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,6.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,36.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,23.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,126.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,66.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,58.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,0.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,50.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,119.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,12.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,36.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,73.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,57.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,26.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,119.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,65.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,46.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,5.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,11.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,124.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,17.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,59.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,110.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,80.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,38.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,4.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,137.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,83.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,9.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,133.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,95.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,138.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,11.0,Paramedico
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,57.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,89.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,46.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,145.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,108.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,121.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,30.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,88.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,2.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,138.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,97.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,111.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,98.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,121.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,91.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,1.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,18.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,89.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,82.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,5.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,44.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,26.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,46.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,20.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,38.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,36.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,65.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,67.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,52.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,76.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,128.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,1.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,0.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,96.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,44.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,42.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,34.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,77.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,106.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,105.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,121.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,108.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,81.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,38.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,86.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,30.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,146.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,132.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,2.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,123.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,49.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,87.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,66.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,18.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,148.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,101.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,72.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,93.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,34.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,103.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,40.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,111.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,89.0,Tripulante de Cabina
+38,Gabriel Palmer,18-08-1981,O88716397,UNITED,UAN,99.0,Piloto              
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,30.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,48.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,106.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,16.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,43.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,136.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,30.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,44.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,45.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,141.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,24.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,48.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,39.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,114.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,64.0,Paramedico
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,48.0,Tripulante de Cabina
+38,Gabriel Palmer,18-08-1981,O88716397,LATAM DOMESTICO,LUD,99.0,Piloto              
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,40.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,95.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,96.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,0.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,98.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,143.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,138.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,69.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,43.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,115.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,114.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,6.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,125.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,19.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,94.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,131.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,45.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,8.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,23.0,Paramedico
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,48.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,68.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,90.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,131.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,60.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,83.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,80.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,45.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,38.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,45.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,13.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,140.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,121.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,86.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,96.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,69.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,113.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,131.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,39.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,99.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,59.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,65.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,104.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,35.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,65.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,87.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,69.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,47.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,109.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,16.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,6.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,104.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,26.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,20.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,37.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,34.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,22.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,99.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,110.0,Paramedico
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,9.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,47.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,140.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,86.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,16.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,91.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,115.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,103.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,78.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,25.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,129.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,128.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,92.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,129.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,50.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,66.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,52.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,46.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,1.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,102.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,29.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,39.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,34.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,36.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,70.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,119.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,23.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,104.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,145.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,85.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,125.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,3.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,85.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,121.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,116.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,108.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,138.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,72.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,138.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,59.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,1.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,73.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,103.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,125.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,60.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,33.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,15.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,108.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,47.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,77.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,59.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,62.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,15.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,101.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,56.0,Paramedico
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,103.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,137.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,5.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,65.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,99.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,45.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,69.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,22.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,86.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,48.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,49.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,137.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,39.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,141.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,124.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,60.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,45.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,26.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,9.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,47.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,59.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,60.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,123.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,72.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,45.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,32.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,90.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,107.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,120.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,121.0,Tripulante de Cabina
+36,Justin Martin,08-07-1984,U66847209,,,,
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,7.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,8.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,98.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,81.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,124.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,87.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,17.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,114.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,48.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,23.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,1.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,27.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,97.0,Paramedico
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,33.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,24.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,90.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,54.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,2.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,136.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,37.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,42.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,69.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,65.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,101.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,72.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,26.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,107.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,28.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,49.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,67.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,39.0,Paramedico
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,94.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,58.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,26.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,58.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,91.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,26.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,97.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,87.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,60.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,72.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,41.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,6.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,119.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,81.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,120.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,20.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,111.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,38.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,80.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,58.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,26.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,21.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,44.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,50.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,110.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,61.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,113.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,111.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,120.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,3.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,20.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,38.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,5.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,104.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,128.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,87.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,147.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,118.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,45.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,36.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,142.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,19.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,32.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,69.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,96.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,28.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,95.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,119.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,10.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,45.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,75.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,138.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,120.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,112.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,28.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,52.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,112.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,144.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,87.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,40.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,48.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,69.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,47.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,3.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,52.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,41.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,24.0,Paramedico
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,16.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,6.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,144.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,26.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,13.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,79.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,121.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,2.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,91.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,130.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,94.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,120.0,Paramedico
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,52.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,83.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,76.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,1.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,137.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,58.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,61.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,37.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,40.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,136.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,10.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,115.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,9.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,88.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,93.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,38.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,68.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,37.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,131.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,122.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,36.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,59.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,125.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,1.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,130.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,120.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,71.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,137.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,25.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,147.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,56.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,3.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,8.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,25.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,112.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,70.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,141.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,63.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,72.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,97.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,59.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,49.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,97.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,120.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,138.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,135.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,10.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,11.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,96.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,1.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,129.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,139.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,44.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,52.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,13.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,102.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,46.0,Tripulante de Cabina
+38,Gabriel Palmer,18-08-1981,O88716397,LATAM DOMESTICO,LUD,99.0,Piloto              
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,26.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,74.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,95.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,115.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,21.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,136.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,29.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,55.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,137.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,99.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,46.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,68.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,136.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,86.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,15.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,103.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,81.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,23.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,129.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,104.0,Paramedico
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,96.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,109.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,78.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,84.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,38.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,19.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,47.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,135.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,45.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,101.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,81.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,10.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,81.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,22.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,110.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,51.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,73.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,3.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,96.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,137.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,97.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,124.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,83.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,117.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,89.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,115.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,146.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,103.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,92.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,46.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,137.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,81.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,82.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,52.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,33.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,1.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,51.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,0.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,122.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,8.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,136.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,129.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,66.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,0.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,108.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,26.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,106.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,137.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,35.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,133.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,70.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,98.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,96.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,96.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,70.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,89.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,22.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,98.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,26.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,121.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,101.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,117.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,115.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,29.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,34.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,35.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,115.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,70.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,45.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,33.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,140.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,99.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,129.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,37.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,131.0,Tripulante de Cabina
+3,Linda Paul,12-01-1983,L91489362,,,,
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,90.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,68.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,114.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,46.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,77.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,141.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,30.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,74.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,119.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,50.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,123.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,104.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,12.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,9.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,130.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,122.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,121.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,0.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,30.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,65.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,34.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,131.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,51.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,126.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,112.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,116.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,50.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,139.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,45.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,140.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,131.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,87.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,75.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,6.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,60.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,102.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,81.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,81.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,67.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,2.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,108.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,47.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,78.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,110.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,60.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,130.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,122.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,126.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,65.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,5.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,109.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,138.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,125.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,134.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,42.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,74.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,90.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,31.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,136.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,98.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,68.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,8.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,107.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,22.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,79.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,135.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,130.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,52.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,61.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,9.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,66.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,148.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,57.0,Paramedico
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,99.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,100.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,79.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,26.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,130.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,98.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,95.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,56.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,5.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,9.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,24.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,52.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,2.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,27.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,89.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,136.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,115.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,32.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,17.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,45.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,138.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,50.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,130.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,127.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,81.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,10.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,101.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,32.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,38.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,115.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,98.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,40.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,134.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,138.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,19.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,68.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,7.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,17.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,1.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,3.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,110.0,Paramedico
+38,Gabriel Palmer,18-08-1981,O88716397,EASTERN AIRLINES,EAL,99.0,Piloto              
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,61.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,10.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,127.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,50.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,99.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,6.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,99.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,101.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,85.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,107.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,38.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,139.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,85.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,111.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,138.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,123.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,12.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,112.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,108.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,88.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,20.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,99.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,36.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,39.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,124.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,39.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,34.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,110.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,73.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,24.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,133.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,30.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,121.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,91.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,17.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,126.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,108.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,124.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,48.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,125.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,23.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,101.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,141.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,56.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,2.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,90.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,9.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,32.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,132.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,9.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,74.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,143.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,50.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,39.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,103.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,129.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,93.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,46.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,73.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,128.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,111.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,9.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,137.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,48.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,8.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,28.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,59.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,113.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,64.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,136.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,71.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,99.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,84.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,93.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,126.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,25.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,104.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,63.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,111.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,130.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,63.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,29.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,119.0,Paramedico
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,51.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,76.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,30.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,96.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,36.0,Paramedico
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,132.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,31.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,143.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,132.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,75.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,6.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,139.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,38.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,111.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,3.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,138.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,108.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,30.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,27.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,8.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,30.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,74.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,0.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,1.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,99.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,37.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,140.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,96.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,121.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,48.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,88.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,96.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,55.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,5.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,8.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,114.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,37.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,48.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,88.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,147.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,87.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,33.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,118.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,77.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,63.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,7.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,9.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,128.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,20.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,122.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,7.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,94.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,71.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,93.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,32.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,121.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,65.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,86.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,29.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,101.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,133.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,131.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,123.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,136.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,45.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,28.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,107.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,115.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,122.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,33.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,31.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,124.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,9.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,13.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,90.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,34.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,104.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,115.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,87.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,104.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,1.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,52.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,0.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,54.0,Paramedico
+57,Kerry Quinn,15-01-1978,I14085439,,,,
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,9.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,73.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,136.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,54.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,53.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,8.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,139.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,61.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,8.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,79.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,66.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,122.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,131.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,96.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,10.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,4.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,42.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,134.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,93.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,137.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,41.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,112.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,34.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,1.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,33.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,108.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,112.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,146.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,20.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,11.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,107.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,29.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,98.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,43.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,47.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,10.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,103.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,94.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,5.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,77.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,145.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,30.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,134.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,34.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,17.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,36.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,49.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,38.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,87.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,113.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,KALITTA AIR,KAI,8.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,133.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,44.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,98.0,Paramedico
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,31.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,88.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,29.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,8.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,135.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,38.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,115.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,35.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,81.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,37.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,24.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,125.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,48.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,47.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,141.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,0.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,38.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,111.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,148.0,Tripulante de Cabina
+6,Jason Moore,27-01-1991,T50398906,,,,
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,97.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,145.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,88.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,34.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,2.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,49.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,10.0,Paramedico
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,97.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,38.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,139.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,138.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,135.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,129.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,70.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,138.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,64.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,36.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,121.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,6.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,89.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,99.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,81.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,97.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,83.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,109.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,55.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,89.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,24.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,104.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,29.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,5.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,101.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,141.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,105.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,9.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,30.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,24.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,75.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,96.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,134.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,68.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,3.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,109.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,147.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,55.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,57.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,25.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,76.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,0.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,52.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,76.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,57.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,5.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,33.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,81.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,45.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,1.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,109.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,9.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,139.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,140.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,70.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,121.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,144.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,69.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,74.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,99.0,Tripulante de Cabina
+55,Rachael Vasquez,31-10-1998,U79474626,,,,
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,139.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,69.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,90.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,83.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,108.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,11.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,109.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,77.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,74.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,29.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,139.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,39.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,94.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,122.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,137.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,87.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,119.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,119.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,96.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,92.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,143.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,53.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,UNITED,UAN,68.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,61.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,68.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,29.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,115.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,82.0,Paramedico
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,82.0,Paramedico
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,11.0,Tripulante de Cabina
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,40.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,140.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,2.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,8.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,25.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,AEROVIAS DAP (centro/norte),ADC,133.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,18.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,79.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM INTER,LAT,148.0,Paramedico
+48,Alex Walsh,12-12-1985,W59287703,LAW,LAW,101.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,35.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,115.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,136.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,108.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,59.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,59.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,128.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,135.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,36.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,101.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,38.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,139.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,100.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,80.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,14.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,QANTAS,QAF,106.0,Tripulante de Cabina
+3,Linda Paul,12-01-1983,L91489362,,,,
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,80.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,2.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,76.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,22.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,68.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,19.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,140.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,0.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,7.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,132.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,67.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,103.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,136.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,29.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,100.0,Paramedico
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,127.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM DOMESTICO,LUD,52.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,48.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,21.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,37.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,90.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,BRITISH,BTA,5.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,LATAM DOMESTICO,LUD,64.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,66.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,49.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,60.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,9.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,119.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,23.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,84.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,105.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,147.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,103.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,130.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,137.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,139.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,62.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,124.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,OCEANAIR,COG,126.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,139.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,29.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,145.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,33.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,28.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,38.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,108.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,121.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,36.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,82.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,104.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,90.0,Paramedico
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,33.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,131.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,73.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,10.0,Paramedico
+44,David Robinson,04-05-1983,O66207589,,,,
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,119.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,41.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,27.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,28.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,113.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,115.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,113.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,90.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LATAM ARGENTINA,LAM,77.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,22.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,68.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,50.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,141.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,5.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,113.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,46.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM ECUADOR,XLE,107.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,57.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,45.0,Paramedico
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,96.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,23.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,56.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,136.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,125.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,51.0,Paramedico
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,132.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,68.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,51.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,70.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,122.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,136.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,34.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,MARTINAIR HOLLAND,MPH,118.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,134.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,80.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,46.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,22.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,68.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,48.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,64.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,IBERIA,IBE,89.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,138.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,44.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,38.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,13.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,122.0,Tripulante de Cabina
+1,Melanie Cummings,01-09-1980,J00360904,LATAM ECUADOR,XLE,21.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,109.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,54.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,71.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,LATAM DOMESTICO,LUD,6.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,60.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,111.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,145.0,Paramedico
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,81.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,124.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,130.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,18.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,34.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,115.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,93.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,43.0,Tripulante de Cabina
+38,Gabriel Palmer,18-08-1981,O88716397,UNITED,UAN,99.0,Piloto              
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,98.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,62.0,Tripulante de Cabina
+39,Patricia Norris,08-12-1974,Y69764268,AEROVIAS DAP (centro/norte),ADC,16.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,148.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,139.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,MARTINAIR HOLLAND,MPH,26.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,115.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,KALITTA AIR,KAI,129.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,26.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,LATAM DOMESTICO,LUD,139.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,LATAM ECUADOR,XLE,120.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LATAM INTER,LAT,67.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,50.0,Tripulante de Cabina
+45,Jill Haas,10-04-1986,U50608611,LAW,LAW,74.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,99.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,53.0,Paramedico
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,134.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,102.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,9.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,KOREAN AIR,KEA,20.0,Paramedico
+1,Melanie Cummings,01-09-1980,J00360904,KOREAN AIR,KEA,34.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,48.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,83.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,24.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,UNITED,UAN,38.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,141.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,OCEANAIR,COG,90.0,Paramedico
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,112.0,Tripulante de Cabina
+3,Linda Paul,12-01-1983,L91489362,,,,
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,19.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,MARTINAIR HOLLAND,MPH,119.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,96.0,Paramedico
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,50.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM DOMESTICO,LUD,34.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,128.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,137.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,BRITISH,BTA,17.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,139.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,LAW,LAW,48.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,109.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,LACSA,LRC,24.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,NO_COMPANY,NCY,23.0,Paramedico
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,31.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,49.0,Tripulante de Cabina
+26,Elizabeth Jordan,16-09-1974,S70038299,LAW,LAW,82.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,96.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,129.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,139.0,Tripulante de Cabina
+38,Gabriel Palmer,18-08-1981,O88716397,EASTERN AIRLINES,EAL,99.0,Piloto              
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,97.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,87.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,EASTERN AIRLINES,EAL,74.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,69.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,41.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,103.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,59.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,76.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,KALITTA AIR,KAI,116.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,66.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,125.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,LACSA,LRC,119.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,0.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,79.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,LATAM CARGO,UCA,72.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,89.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,34.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,58.0,Paramedico
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,47.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,109.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,LATAM CARGO,UCA,76.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,6.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,84.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,LAW,LAW,136.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,4.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,ALITALIA,AZI,5.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,107.0,Paramedico
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,89.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,86.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,NO_COMPANY,NCY,75.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,LATAM DOMESTICO,LUD,34.0,Tripulante de Cabina
+52,Sara Sims,10-07-1999,F00773862,KALITTA AIR,KAI,120.0,Paramedico
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,67.0,Paramedico
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,34.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,97.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,138.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,146.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,138.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,89.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,OCEANAIR,COG,115.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KOREAN AIR,KEA,3.0,Tripulante de Cabina
+48,Alex Walsh,12-12-1985,W59287703,ALITALIA,AZI,97.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,136.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,LATAM CARGO,UCA,134.0,Paramedico
+45,Jill Haas,10-04-1986,U50608611,EASTERN AIRLINES,EAL,117.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,140.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,99.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,128.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LATAM ECUADOR,XLE,16.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,136.0,Paramedico
+20,James Singleton,12-08-1977,U46471214,LACSA,LRC,130.0,Paramedico
+33,Samantha Mora,27-10-1990,P24467352,QANTAS,QAF,1.0,Tripulante de Cabina
+35,Francisco Rich,21-02-1996,D89562085,QANTAS,QAF,15.0,Paramedico
+52,Sara Sims,10-07-1999,F00773862,ETHOPIAN AIRLINES,ETA,28.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,77.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,49.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,65.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,25.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,108.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,137.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM DOMESTICO,LUD,100.0,Tripulante de Cabina
+32,Darrell Henderson,14-03-1975,I87476188,QANTAS,QAF,42.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,91.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,1.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,ETHOPIAN AIRLINES,ETA,128.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LATAM INTER,LAT,100.0,Paramedico
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,139.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,0.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,64.0,Paramedico
+30,Daniel Callahan,13-09-1987,X88103341,LATAM DOMESTICO,LUD,135.0,Paramedico
+53,Patricia Alvarado,01-08-1983,P27318304,KALITTA AIR,KAI,91.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,116.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,59.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,140.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,AEROVIAS DAP (centro/norte),ADC,39.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,85.0,Paramedico
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,86.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,29.0,Tripulante de Cabina
+46,Heather Arnold,10-01-1999,Y81323264,KALITTA AIR,KAI,6.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,ETHOPIAN AIRLINES,ETA,129.0,Paramedico
+47,Michael Compton,07-01-1980,T63857772,LATAM ARGENTINA,LAM,0.0,Paramedico
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,74.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,EASTERN AIRLINES,EAL,49.0,Tripulante de Cabina
+28,Nicholas Simmons,03-08-1994,W03439988,LAW,LAW,45.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,BRITISH,BTA,87.0,Paramedico
+39,Patricia Norris,08-12-1974,Y69764268,LAW,LAW,97.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,LACSA,LRC,0.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LATAM DOMESTICO,LUD,136.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,137.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,ETHOPIAN AIRLINES,ETA,69.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,34.0,Tripulante de Cabina
+33,Samantha Mora,27-10-1990,P24467352,BRITISH,BTA,29.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,LAW,LAW,138.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,53.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,104.0,Tripulante de Cabina
+3,Linda Paul,12-01-1983,L91489362,,,,
+22,Rodney Wilson,18-10-1973,R08362516,KALITTA AIR,KAI,38.0,Tripulante de Cabina
+49,Kenneth Brady,06-11-1981,O21522167,UNITED,UAN,102.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,26.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,ALITALIA,AZI,51.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,ETHOPIAN AIRLINES,ETA,10.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,NO_COMPANY,NCY,62.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,LAW,LAW,39.0,Paramedico
+22,Rodney Wilson,18-10-1973,R08362516,UNITED,UAN,24.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,LATAM ARGENTINA,LAM,129.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,20.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,NO_COMPANY,NCY,60.0,Tripulante de Cabina
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,4.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,29.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,UNITED,UAN,47.0,Tripulante de Cabina
+42,Deborah Martinez,03-02-1987,G18065401,KALITTA AIR,KAI,60.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,97.0,Paramedico
+43,Rebecca Valenzuela,18-08-1971,G17571521,AEROVIAS DAP (centro/norte),ADC,127.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,NO_COMPANY,NCY,48.0,Tripulante de Cabina
+47,Michael Compton,07-01-1980,T63857772,EASTERN AIRLINES,EAL,47.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,19.0,Paramedico
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,63.0,Tripulante de Cabina
+14,Ronnie Macias,12-02-1988,J06543685,BRITISH,BTA,91.0,Tripulante de Cabina
+40,Brian Berry,22-12-1998,N92528667,ETHOPIAN AIRLINES,ETA,86.0,Paramedico
+27,Steven Hernandez,18-11-1997,Z48029074,ALITALIA,AZI,116.0,Paramedico
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,2.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,LAW,LAW,78.0,Tripulante de Cabina
+58,Samuel Jimenez,07-01-1984,B79815379,UNITED,UAN,122.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,KOREAN AIR,KEA,97.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,LATAM DOMESTICO,LUD,136.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,LATAM ECUADOR,XLE,58.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,KALITTA AIR,KAI,81.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,48.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,BRITISH,BTA,81.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,49.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,KALITTA AIR,KAI,140.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,108.0,Tripulante de Cabina
+19,Desiree Williams,19-03-1993,Z32250364,AEROVIAS DAP (centro/norte),ADC,50.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,4.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,ALITALIA,AZI,36.0,Tripulante de Cabina
+12,Ronnie Moore,12-01-1997,L28170812,AEROVIAS DAP (centro/norte),ADC,56.0,Tripulante de Cabina
+30,Daniel Callahan,13-09-1987,X88103341,LATAM CARGO,UCA,55.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,136.0,Tripulante de Cabina
+50,Adam Herrera,04-12-1976,Y37241205,LAW,LAW,16.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,121.0,Tripulante de Cabina
+13,Bradley Glenn,17-10-1975,U87751971,KALITTA AIR,KAI,8.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,89.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,124.0,Tripulante de Cabina
+11,David Tran,07-08-1975,B62958600,LATAM INTER,LAT,100.0,Tripulante de Cabina
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,57.0,Tripulante de Cabina
+16,Tracey Harris,05-06-1978,C97271665,EASTERN AIRLINES,EAL,76.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,IBERIA,IBE,33.0,Tripulante de Cabina
+20,James Singleton,12-08-1977,U46471214,LATAM ARGENTINA,LAM,44.0,Paramedico
+51,Kristina Gilmore,13-12-1985,B29047250,LAW,LAW,14.0,Tripulante de Cabina
+18,Michael Chavez,28-08-1976,O16330677,BRITISH,BTA,68.0,Tripulante de Cabina
+22,Rodney Wilson,18-10-1973,R08362516,OCEANAIR,COG,138.0,Tripulante de Cabina
+2,Melissa Jimenez,18-12-1998,W08204144,BRITISH,BTA,9.0,Tripulante de Cabina
+56,Isaiah Riley,18-09-1986,W12727804,IBERIA,IBE,94.0,Tripulante de Cabina
+53,Patricia Alvarado,01-08-1983,P27318304,BRITISH,BTA,128.0,Paramedico
+5,Miguel Oliver,27-08-1992,E21376006,UNITED,UAN,121.0,Tripulante de Cabina
+4,Diane Swanson,14-02-1974,F08731569,OCEANAIR,COG,9.0,Tripulante de Cabina
+5,Miguel Oliver,27-08-1992,E21376006,KALITTA AIR,KAI,19.0,Tripulante de Cabina
