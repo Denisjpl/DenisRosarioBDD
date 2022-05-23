@@ -1,466 +1,466 @@
 trabajador_id,nombre,fecha_nacimiento,pasaporte,codigo_compania,vuelo_id,rol
-4,Diane Swanson,14/02/1974,F08731569,KAI,139,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,IBE,124,Paramedico
-43,Rebecca Valenzuela,18/08/1971,G17571521,BTA,94,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,BTA,27,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,COG,89,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,BTA,65,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,ADC,87,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,ETA,25,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,LUD,121,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,LAM,109,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,UAN,108,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,LUD,50,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,KAI,138,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,KAI,43,Paramedico
-12,Ronnie Moore,12/01/1997,L28170812,LAW,26,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,54,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,EAL,90,Tripulante de Cabina
-33,Samantha Mora,27/10/1990,P24467352,BTA,91,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAW,97,Tripulante de Cabina
-50,Adam Herrera,04/12/1976,Y37241205,BTA,29,Paramedico
-47,Michael Compton,07/01/1980,T63857772,COG,98,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,COG,111,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,KEA,113,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,LUD,6,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,53,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,33,Tripulante de Cabina
-26,Elizabeth Jordan,16/09/1974,S70038299,MPH,118,Tripulante de Cabina
-50,Adam Herrera,04/12/1976,Y37241205,BTA,33,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,QAF,106,Paramedico
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,97,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,KAI,28,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,LUD,121,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,KAI,141,Paramedico
-16,Tracey Harris,05/06/1978,C97271665,ETA,12,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,XLE,84,Paramedico
-58,Samuel Jimenez,07/01/1984,B79815379,NCY,39,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LAM,131,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,11,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LRC,110,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,XLE,21,Paramedico
-39,Patricia Norris,08/12/1974,Y69764268,QAF,42,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,LRC,44,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,AZI,101,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,COG,36,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LRC,24,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,91,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,UCA,144,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,KAI,8,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,LUD,102,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,LUD,30,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,137,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAW,35,Paramedico
-50,Adam Herrera,04/12/1976,Y37241205,LAW,105,Paramedico
-30,Daniel Callahan,13/09/1987,X88103341,XLE,125,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,LAW,48,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,142,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,IBE,124,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,LAW,26,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KEA,113,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,KAI,139,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,BTA,65,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,AZI,101,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,144,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,51,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,LUD,50,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,AZI,59,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,ADC,71,Paramedico
-14,Ronnie Macias,12/02/1988,J06543685,EAL,90,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,LUD,34,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,140,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,IBE,78,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,LUD,34,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,142,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,UAN,108,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,LAW,9,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,IBE,93,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,XLE,37,Tripulante de Cabina
-48,Alex Walsh,12/12/1985,W59287703,LAW,35,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,IBE,104,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,NCY,14,Paramedico
-4,Diane Swanson,14/02/1974,F08731569,LAW,105,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,BTA,103,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,LRC,44,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,23,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,147,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,139,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,ETA,114,Tripulante de Cabina
-39,Patricia Norris,08/12/1974,Y69764268,QAF,15,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,UCA,107,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,LUD,6,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,BTA,4,Paramedico
-32,Darrell Henderson,14/03/1975,I87476188,LAT,132,Paramedico
-49,Kenneth Brady,06/11/1981,O21522167,UAN,108,Paramedico
-11,David Tran,07/08/1975,B62958600,LUD,6,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LAM,66,Paramedico
-30,Daniel Callahan,13/09/1987,X88103341,XLE,58,Paramedico
-27,Steven Hernandez,18/11/1997,Z48029074,NCY,57,Paramedico
-58,Samuel Jimenez,07/01/1984,B79815379,UAN,5,Tripulante de Cabina
-48,Alex Walsh,12/12/1985,W59287703,AZI,59,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,ADC,80,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,KAI,133,Paramedico
-50,Adam Herrera,04/12/1976,Y37241205,XLE,95,Paramedico
-40,Brian Berry,22/12/1998,N92528667,LAT,11,Paramedico
-11,David Tran,07/08/1975,B62958600,NCY,57,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,145,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,LAW,18,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,COG,89,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,KEA,20,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,LAT,67,Paramedico
-16,Tracey Harris,05/06/1978,C97271665,ETA,76,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,1,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,LAM,0,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,KAI,136,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,BTA,81,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,NCY,86,Paramedico
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,132,Tripulante de Cabina
-45,Jill Haas,10/04/1986,U50608611,EAL,123,Paramedico
-19,Desiree Williams,19/03/1993,Z32250364,ADC,87,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,LAM,66,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,BTA,103,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,COG,111,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,COG,89,Tripulante de Cabina
-38,Gabriel Palmer,18/08/1981,O88716397,UAN,99,Piloto              
-46,Heather Arnold,10/01/1999,Y81323264,KAI,136,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,LUD,30,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LRC,44,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,LUD,45,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,ETA,114,Paramedico
-48,Alex Walsh,12/12/1985,W59287703,LAW,48,Tripulante de Cabina
-48,Alex Walsh,12/12/1985,W59287703,AZI,40,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,XLE,95,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,UCA,143,Paramedico
-52,Sara Sims,10/07/1999,F00773862,ETA,69,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,BTA,94,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,LAM,131,Paramedico
-11,David Tran,07/08/1975,B62958600,LUD,45,Tripulante de Cabina
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,48,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,68,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAT,83,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,KAI,38,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,UAN,99,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,65,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LRC,110,Paramedico
-39,Patricia Norris,08/12/1974,Y69764268,LAW,9,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,COG,47,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,ETA,25,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,COG,129,Paramedico
-26,Elizabeth Jordan,16/09/1974,S70038299,MPH,92,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,LUD,50,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,IBE,46,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,ADC,119,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,IBE,104,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,KAI,138,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,XLE,85,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,LUD,121,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,116,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,103,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,LRC,60,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,33,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,EAL,77,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,AZI,59,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,NCY,62,Paramedico
-43,Rebecca Valenzuela,18/08/1971,G17571521,BTA,103,Paramedico
-52,Sara Sims,10/07/1999,F00773862,KAI,137,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,KAI,141,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,LUD,45,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,KAI,138,Tripulante de Cabina
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,26,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,KAI,136,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,COG,47,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,EAL,123,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,72,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,UCA,107,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,LUD,121,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,KEA,7,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,KAI,8,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,COG,98,Tripulante de Cabina
-33,Samantha Mora,27/10/1990,P24467352,BTA,33,Tripulante de Cabina
-33,Samantha Mora,27/10/1990,P24467352,QAF,42,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,72,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,AZI,49,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LRC,60,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,ETA,41,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,COG,111,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,LUD,50,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,ETA,120,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,UCA,147,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,COG,32,Paramedico
-39,Patricia Norris,08/12/1974,Y69764268,LAW,96,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,ETA,120,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,XLE,112,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,AZI,40,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,KEA,3,Paramedico
-39,Patricia Norris,08/12/1974,Y69764268,LAW,16,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,13,Paramedico
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,79,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,LUD,121,Tripulante de Cabina
-50,Adam Herrera,04/12/1976,Y37241205,LAW,2,Paramedico
-52,Sara Sims,10/07/1999,F00773862,ETA,120,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,ETA,76,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,BTA,1,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,XLE,37,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,40,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,LAW,9,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAT,88,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,KAI,136,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,KAI,137,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LRC,70,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,KAI,38,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,KEA,63,Paramedico
-12,Ronnie Moore,12/01/1997,L28170812,LAW,97,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,49,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,96,Tripulante de Cabina
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,52,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,NCY,86,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,NCY,23,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,KAI,38,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,COG,129,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,101,Paramedico
-52,Sara Sims,10/07/1999,F00773862,ETA,10,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,COG,73,Paramedico
-12,Ronnie Moore,12/01/1997,L28170812,KEA,3,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,LAW,96,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAW,97,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,81,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,52,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LAM,0,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,NCY,122,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,26,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,EAL,117,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,KAI,115,Paramedico
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,35,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,KAI,115,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LUD,45,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,BTA,33,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,EAL,90,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,IBE,46,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KAI,138,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,EAL,77,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,LUD,30,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,ADC,119,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,ETA,12,Paramedico
-28,Nicholas Simmons,03/08/1994,W03439988,LUD,30,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,QAF,126,Paramedico
-16,Tracey Harris,05/06/1978,C97271665,XLE,112,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,NCY,116,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,140,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,AZI,75,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,LUD,102,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,IBE,78,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,NCY,122,Tripulante de Cabina
-39,Patricia Norris,08/12/1974,Y69764268,QAF,126,Tripulante de Cabina
-33,Samantha Mora,27/10/1990,P24467352,BTA,65,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,XLE,125,Tripulante de Cabina
-45,Jill Haas,10/04/1986,U50608611,EAL,74,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,KAI,38,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,NCY,22,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,LAT,79,Paramedico
-48,Alex Walsh,12/12/1985,W59287703,LAW,52,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,ADC,61,Paramedico
-28,Nicholas Simmons,03/08/1994,W03439988,LAW,9,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,UAN,99,Paramedico
-52,Sara Sims,10/07/1999,F00773862,LAW,26,Paramedico
-20,James Singleton,12/08/1977,U46471214,LRC,24,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,KAI,115,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,ADC,127,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,ETA,10,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,COG,98,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,AZI,19,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,NCY,17,Paramedico
-12,Ronnie Moore,12/01/1997,L28170812,ADC,61,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,KAI,139,Paramedico
-50,Adam Herrera,04/12/1976,Y37241205,XLE,85,Paramedico
-40,Brian Berry,22/12/1998,N92528667,NCY,39,Paramedico
-53,Patricia Alvarado,01/08/1983,P27318304,BTA,91,Paramedico
-58,Samuel Jimenez,07/01/1984,B79815379,NCY,17,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,38,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,ADC,56,Paramedico
-48,Alex Walsh,12/12/1985,W59287703,LAW,9,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,COG,32,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,LAT,132,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,IBE,93,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,COG,73,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,28,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,KAI,38,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,59,Paramedico
-40,Brian Berry,22/12/1998,N92528667,ETA,25,Paramedico
-13,Bradley Glenn,17/10/1975,U87751971,KEA,63,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,LRC,130,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,KAI,51,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KAI,139,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,KAI,136,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,COG,36,Paramedico
-33,Samantha Mora,27/10/1990,P24467352,QAF,31,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,143,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,LUD,6,Paramedico
-43,Rebecca Valenzuela,18/08/1971,G17571521,BTA,1,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,UAN,5,Tripulante de Cabina
-39,Patricia Norris,08/12/1974,Y69764268,ADC,71,Tripulante de Cabina
-48,Alex Walsh,12/12/1985,W59287703,AZI,101,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KAI,38,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,115,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,KAI,13,Tripulante de Cabina
-35,Francisco Rich,21/02/1996,D89562085,IBE,104,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,BTA,1,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAW,52,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,136,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,54,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,LAM,131,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,LAT,134,Paramedico
-52,Sara Sims,10/07/1999,F00773862,ETA,41,Paramedico
-30,Daniel Callahan,13/09/1987,X88103341,XLE,112,Paramedico
-33,Samantha Mora,27/10/1990,P24467352,BTA,1,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,UCA,146,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KEA,20,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,LUD,34,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,ADC,87,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,KAI,138,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,KAI,8,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,KAI,133,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,88,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,29,Tripulante de Cabina
-50,Adam Herrera,04/12/1976,Y37241205,XLE,37,Paramedico
-45,Jill Haas,10/04/1986,U50608611,LAW,48,Paramedico
-47,Michael Compton,07/01/1980,T63857772,COG,47,Paramedico
-2,Melissa Jimenez,18/12/1998,W08204144,KAI,141,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,148,Tripulante de Cabina
-48,Alex Walsh,12/12/1985,W59287703,LAW,97,Tripulante de Cabina
-49,Kenneth Brady,06/11/1981,O21522167,LUD,34,Paramedico
-19,Desiree Williams,19/03/1993,Z32250364,XLE,135,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,COG,129,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,BTA,81,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,97,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,LAM,109,Tripulante de Cabina
-50,Adam Herrera,04/12/1976,Y37241205,UAN,5,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,KAI,139,Tripulante de Cabina
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,75,Paramedico
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,134,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LAM,109,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,UCA,55,Tripulante de Cabina
-47,Michael Compton,07/01/1980,T63857772,ETA,76,Paramedico
-45,Jill Haas,10/04/1986,U50608611,LAW,52,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,57,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,LUD,45,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,LAW,9,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,LRC,70,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,EAL,74,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,KAI,138,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,LAT,11,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,39,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,NCY,122,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,KAI,137,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,ADC,87,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,LAW,96,Tripulante de Cabina
-45,Jill Haas,10/04/1986,U50608611,MPH,92,Paramedico
-42,Deborah Martinez,03/02/1987,G18065401,KAI,115,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAW,82,Paramedico
-4,Diane Swanson,14/02/1974,F08731569,LAW,2,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,UAN,108,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,BTA,128,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,XLE,135,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,COG,36,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,14,Tripulante de Cabina
-39,Patricia Norris,08/12/1974,Y69764268,QAF,106,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,ADC,80,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,LAW,2,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,NCY,22,Paramedico
-50,Adam Herrera,04/12/1976,Y37241205,BTA,68,Paramedico
-5,Miguel Oliver,27/08/1992,E21376006,AZI,19,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,KAI,140,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,KEA,7,Paramedico
-56,Isaiah Riley,18/09/1986,W12727804,KAI,136,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,BTA,29,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,LUD,64,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,ADC,119,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,XLE,84,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,LRC,130,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,LUD,121,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,ADC,119,Paramedico
-16,Tracey Harris,05/06/1978,C97271665,ETA,41,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,BTA,27,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,KAI,28,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,KEA,113,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,IBE,46,Paramedico
-49,Kenneth Brady,06/11/1981,O21522167,LUD,45,Paramedico
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,96,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,XLE,125,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,51,Paramedico
-45,Jill Haas,10/04/1986,U50608611,MPH,118,Paramedico
-12,Ronnie Moore,12/01/1997,L28170812,ADC,80,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,NCY,22,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,68,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,LAW,48,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,XLE,21,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,KAI,138,Tripulante de Cabina
-1,Melanie Cummings,01/09/1980,J00360904,LUD,6,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,LRC,60,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,145,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,BTA,81,Tripulante de Cabina
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,18,Tripulante de Cabina
-46,Heather Arnold,10/01/1999,Y81323264,KAI,43,Tripulante de Cabina
-38,Gabriel Palmer,18/08/1981,O88716397,UAN,99,Piloto              
-32,Darrell Henderson,14/03/1975,I87476188,UCA,148,Paramedico
-4,Diane Swanson,14/02/1974,F08731569,KAI,115,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAW,26,Tripulante de Cabina
-28,Nicholas Simmons,03/08/1994,W03439988,LAT,67,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,LUD,50,Tripulante de Cabina
-58,Samuel Jimenez,07/01/1984,B79815379,UAN,99,Tripulante de Cabina
-52,Sara Sims,10/07/1999,F00773862,KAI,53,Paramedico
-11,David Tran,07/08/1975,B62958600,LAT,134,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,LAW,9,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,KEA,20,Paramedico
-51,Kristina Gilmore,13/12/1985,B29047250,LAW,48,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,LAT,83,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,LAW,96,Paramedico
-19,Desiree Williams,19/03/1993,Z32250364,LUD,34,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,LAW,48,Tripulante de Cabina
-42,Deborah Martinez,03/02/1987,G18065401,LRC,24,Tripulante de Cabina
-40,Brian Berry,22/12/1998,N92528667,NCY,23,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,QAF,31,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,AZI,49,Tripulante de Cabina
-26,Elizabeth Jordan,16/09/1974,S70038299,LAW,82,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,KAI,138,Tripulante de Cabina
-14,Ronnie Macias,12/02/1988,J06543685,EAL,74,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,ETA,69,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,UCA,72,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,UCA,107,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,LUD,34,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,UCA,146,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,KAI,138,Tripulante de Cabina
-13,Bradley Glenn,17/10/1975,U87751971,KEA,3,Tripulante de Cabina
-45,Jill Haas,10/04/1986,U50608611,EAL,117,Paramedico
-18,Michael Chavez,28/08/1976,O16330677,BTA,128,Tripulante de Cabina
-20,James Singleton,12/08/1977,U46471214,LRC,130,Paramedico
-35,Francisco Rich,21/02/1996,D89562085,QAF,15,Paramedico
-22,Rodney Wilson,18/10/1973,R08362516,KAI,137,Tripulante de Cabina
-32,Darrell Henderson,14/03/1975,I87476188,QAF,42,Paramedico
-40,Brian Berry,22/12/1998,N92528667,LAT,100,Paramedico
-46,Heather Arnold,10/01/1999,Y81323264,KAI,139,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,LUD,64,Paramedico
-47,Michael Compton,07/01/1980,T63857772,LAM,0,Paramedico
-39,Patricia Norris,08/12/1974,Y69764268,LAW,97,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,KAI,137,Tripulante de Cabina
-16,Tracey Harris,05/06/1978,C97271665,ETA,69,Tripulante de Cabina
-33,Samantha Mora,27/10/1990,P24467352,BTA,29,Tripulante de Cabina
-22,Rodney Wilson,18/10/1973,R08362516,KAI,38,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,ETA,10,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,NCY,62,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,29,Tripulante de Cabina
-43,Rebecca Valenzuela,18/08/1971,G17571521,ADC,127,Paramedico
-27,Steven Hernandez,18/11/1997,Z48029074,AZI,19,Paramedico
-14,Ronnie Macias,12/02/1988,J06543685,BTA,91,Tripulante de Cabina
-19,Desiree Williams,19/03/1993,Z32250364,XLE,58,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,BTA,81,Tripulante de Cabina
-4,Diane Swanson,14/02/1974,F08731569,KAI,140,Tripulante de Cabina
-5,Miguel Oliver,27/08/1992,E21376006,UAN,108,Tripulante de Cabina
-2,Melissa Jimenez,18/12/1998,W08204144,BTA,4,Tripulante de Cabina
-12,Ronnie Moore,12/01/1997,L28170812,ADC,56,Tripulante de Cabina
-30,Daniel Callahan,13/09/1987,X88103341,UCA,55,Paramedico
-50,Adam Herrera,04/12/1976,Y37241205,LAW,16,Paramedico
-13,Bradley Glenn,17/10/1975,U87751971,KAI,8,Tripulante de Cabina
-56,Isaiah Riley,18/09/1986,W12727804,IBE,124,Tripulante de Cabina
-11,David Tran,07/08/1975,B62958600,LAT,100,Tripulante de Cabina
-18,Michael Chavez,28/08/1976,O16330677,BTA,68,Tripulante de Cabina
-53,Patricia Alvarado,01/08/1983,P27318304,BTA,128,Paramedico
+4,Diane Swanson,1974/02/14,F08731569,KAI,139,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,IBE,124,Paramedico
+43,Rebecca Valenzuela,1971/08/18,G17571521,BTA,94,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,BTA,27,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,COG,89,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,BTA,65,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,ADC,87,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,ETA,25,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,LUD,121,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,LAM,109,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,UAN,108,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,LUD,50,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,KAI,138,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,KAI,43,Paramedico
+12,Ronnie Moore,1997/01/12,L28170812,LAW,26,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,54,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,EAL,90,Tripulante de Cabina
+33,Samantha Mora,1990/10/27,P24467352,BTA,91,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAW,97,Tripulante de Cabina
+50,Adam Herrera,1976/12/04,Y37241205,BTA,29,Paramedico
+47,Michael Compton,1980/01/07,T63857772,COG,98,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,COG,111,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,KEA,113,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,LUD,6,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,53,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,33,Tripulante de Cabina
+26,Elizabeth Jordan,1974/09/16,S70038299,MPH,118,Tripulante de Cabina
+50,Adam Herrera,1976/12/04,Y37241205,BTA,33,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,QAF,106,Paramedico
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,97,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,KAI,28,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,LUD,121,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,KAI,141,Paramedico
+16,Tracey Harris,1978/06/05,C97271665,ETA,12,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,XLE,84,Paramedico
+58,Samuel Jimenez,1984/01/07,B79815379,NCY,39,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LAM,131,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,11,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LRC,110,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,XLE,21,Paramedico
+39,Patricia Norris,1974/12/08,Y69764268,QAF,42,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,LRC,44,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,AZI,101,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,COG,36,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LRC,24,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,91,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,UCA,144,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,KAI,8,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,LUD,102,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,LUD,30,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,137,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAW,35,Paramedico
+50,Adam Herrera,1976/12/04,Y37241205,LAW,105,Paramedico
+30,Daniel Callahan,1987/09/13,X88103341,XLE,125,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,LAW,48,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,142,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,IBE,124,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,LAW,26,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KEA,113,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,KAI,139,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,BTA,65,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,AZI,101,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,144,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,51,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,LUD,50,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,AZI,59,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,ADC,71,Paramedico
+14,Ronnie Macias,1988/02/12,J06543685,EAL,90,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,LUD,34,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,140,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,IBE,78,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,LUD,34,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,142,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,UAN,108,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,LAW,9,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,IBE,93,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,XLE,37,Tripulante de Cabina
+48,Alex Walsh,1985/12/12,W59287703,LAW,35,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,IBE,104,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,NCY,14,Paramedico
+4,Diane Swanson,1974/02/14,F08731569,LAW,105,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,BTA,103,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,LRC,44,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,23,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,147,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,139,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,ETA,114,Tripulante de Cabina
+39,Patricia Norris,1974/12/08,Y69764268,QAF,15,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,UCA,107,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,LUD,6,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,BTA,4,Paramedico
+32,Darrell Henderson,1975/03/14,I87476188,LAT,132,Paramedico
+49,Kenneth Brady,1981/11/06,O21522167,UAN,108,Paramedico
+11,David Tran,1975/08/07,B62958600,LUD,6,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LAM,66,Paramedico
+30,Daniel Callahan,1987/09/13,X88103341,XLE,58,Paramedico
+27,Steven Hernandez,1997/11/18,Z48029074,NCY,57,Paramedico
+58,Samuel Jimenez,1984/01/07,B79815379,UAN,5,Tripulante de Cabina
+48,Alex Walsh,1985/12/12,W59287703,AZI,59,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,ADC,80,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,KAI,133,Paramedico
+50,Adam Herrera,1976/12/04,Y37241205,XLE,95,Paramedico
+40,Brian Berry,1998/12/22,N92528667,LAT,11,Paramedico
+11,David Tran,1975/08/07,B62958600,NCY,57,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,145,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,LAW,18,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,COG,89,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,KEA,20,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,LAT,67,Paramedico
+16,Tracey Harris,1978/06/05,C97271665,ETA,76,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,1,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,LAM,0,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,KAI,136,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,BTA,81,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,NCY,86,Paramedico
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,132,Tripulante de Cabina
+45,Jill Haas,1986/04/10,U50608611,EAL,123,Paramedico
+19,Desiree Williams,1993/03/19,Z32250364,ADC,87,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,LAM,66,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,BTA,103,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,COG,111,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,COG,89,Tripulante de Cabina
+38,Gabriel Palmer,1981/08/18,O88716397,UAN,99,Piloto              
+46,Heather Arnold,1999/01/10,Y81323264,KAI,136,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,LUD,30,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LRC,44,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,LUD,45,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,ETA,114,Paramedico
+48,Alex Walsh,1985/12/12,W59287703,LAW,48,Tripulante de Cabina
+48,Alex Walsh,1985/12/12,W59287703,AZI,40,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,XLE,95,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,UCA,143,Paramedico
+52,Sara Sims,1999/07/10,F00773862,ETA,69,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,BTA,94,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,LAM,131,Paramedico
+11,David Tran,1975/08/07,B62958600,LUD,45,Tripulante de Cabina
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,48,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,68,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAT,83,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,KAI,38,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,UAN,99,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,65,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LRC,110,Paramedico
+39,Patricia Norris,1974/12/08,Y69764268,LAW,9,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,COG,47,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,ETA,25,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,COG,129,Paramedico
+26,Elizabeth Jordan,1974/09/16,S70038299,MPH,92,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,LUD,50,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,IBE,46,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,ADC,119,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,IBE,104,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,KAI,138,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,XLE,85,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,LUD,121,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,116,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,103,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,LRC,60,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,33,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,EAL,77,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,AZI,59,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,NCY,62,Paramedico
+43,Rebecca Valenzuela,1971/08/18,G17571521,BTA,103,Paramedico
+52,Sara Sims,1999/07/10,F00773862,KAI,137,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,KAI,141,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,LUD,45,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,KAI,138,Tripulante de Cabina
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,26,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,KAI,136,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,COG,47,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,EAL,123,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,72,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,UCA,107,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,LUD,121,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,KEA,7,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,KAI,8,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,COG,98,Tripulante de Cabina
+33,Samantha Mora,1990/10/27,P24467352,BTA,33,Tripulante de Cabina
+33,Samantha Mora,1990/10/27,P24467352,QAF,42,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,72,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,AZI,49,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LRC,60,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,ETA,41,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,COG,111,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,LUD,50,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,ETA,120,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,UCA,147,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,COG,32,Paramedico
+39,Patricia Norris,1974/12/08,Y69764268,LAW,96,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,ETA,120,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,XLE,112,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,AZI,40,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,KEA,3,Paramedico
+39,Patricia Norris,1974/12/08,Y69764268,LAW,16,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,13,Paramedico
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,79,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,LUD,121,Tripulante de Cabina
+50,Adam Herrera,1976/12/04,Y37241205,LAW,2,Paramedico
+52,Sara Sims,1999/07/10,F00773862,ETA,120,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,ETA,76,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,BTA,1,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,XLE,37,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,40,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,LAW,9,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAT,88,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,KAI,136,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,KAI,137,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LRC,70,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,KAI,38,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,KEA,63,Paramedico
+12,Ronnie Moore,1997/01/12,L28170812,LAW,97,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,49,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,96,Tripulante de Cabina
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,52,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,NCY,86,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,NCY,23,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,KAI,38,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,COG,129,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,101,Paramedico
+52,Sara Sims,1999/07/10,F00773862,ETA,10,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,COG,73,Paramedico
+12,Ronnie Moore,1997/01/12,L28170812,KEA,3,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,LAW,96,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAW,97,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,81,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,52,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LAM,0,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,NCY,122,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,26,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,EAL,117,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,KAI,115,Paramedico
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,35,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,KAI,115,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LUD,45,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,BTA,33,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,EAL,90,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,IBE,46,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KAI,138,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,EAL,77,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,LUD,30,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,ADC,119,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,ETA,12,Paramedico
+28,Nicholas Simmons,1994/08/03,W03439988,LUD,30,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,QAF,126,Paramedico
+16,Tracey Harris,1978/06/05,C97271665,XLE,112,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,NCY,116,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,140,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,AZI,75,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,LUD,102,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,IBE,78,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,NCY,122,Tripulante de Cabina
+39,Patricia Norris,1974/12/08,Y69764268,QAF,126,Tripulante de Cabina
+33,Samantha Mora,1990/10/27,P24467352,BTA,65,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,XLE,125,Tripulante de Cabina
+45,Jill Haas,1986/04/10,U50608611,EAL,74,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,KAI,38,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,NCY,22,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,LAT,79,Paramedico
+48,Alex Walsh,1985/12/12,W59287703,LAW,52,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,ADC,61,Paramedico
+28,Nicholas Simmons,1994/08/03,W03439988,LAW,9,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,UAN,99,Paramedico
+52,Sara Sims,1999/07/10,F00773862,LAW,26,Paramedico
+20,James Singleton,1977/08/12,U46471214,LRC,24,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,KAI,115,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,ADC,127,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,ETA,10,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,COG,98,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,AZI,19,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,NCY,17,Paramedico
+12,Ronnie Moore,1997/01/12,L28170812,ADC,61,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,KAI,139,Paramedico
+50,Adam Herrera,1976/12/04,Y37241205,XLE,85,Paramedico
+40,Brian Berry,1998/12/22,N92528667,NCY,39,Paramedico
+53,Patricia Alvarado,1983/08/01,P27318304,BTA,91,Paramedico
+58,Samuel Jimenez,1984/01/07,B79815379,NCY,17,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,38,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,ADC,56,Paramedico
+48,Alex Walsh,1985/12/12,W59287703,LAW,9,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,COG,32,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,LAT,132,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,IBE,93,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,COG,73,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,28,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,KAI,38,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,59,Paramedico
+40,Brian Berry,1998/12/22,N92528667,ETA,25,Paramedico
+13,Bradley Glenn,1975/10/17,U87751971,KEA,63,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,LRC,130,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,KAI,51,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KAI,139,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,KAI,136,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,COG,36,Paramedico
+33,Samantha Mora,1990/10/27,P24467352,QAF,31,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,143,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,LUD,6,Paramedico
+43,Rebecca Valenzuela,1971/08/18,G17571521,BTA,1,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,UAN,5,Tripulante de Cabina
+39,Patricia Norris,1974/12/08,Y69764268,ADC,71,Tripulante de Cabina
+48,Alex Walsh,1985/12/12,W59287703,AZI,101,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KAI,38,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,115,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,KAI,13,Tripulante de Cabina
+35,Francisco Rich,1996/02/21,D89562085,IBE,104,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,BTA,1,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAW,52,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,136,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,54,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,LAM,131,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,LAT,134,Paramedico
+52,Sara Sims,1999/07/10,F00773862,ETA,41,Paramedico
+30,Daniel Callahan,1987/09/13,X88103341,XLE,112,Paramedico
+33,Samantha Mora,1990/10/27,P24467352,BTA,1,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,UCA,146,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KEA,20,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,LUD,34,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,ADC,87,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,KAI,138,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,KAI,8,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,KAI,133,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,88,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,29,Tripulante de Cabina
+50,Adam Herrera,1976/12/04,Y37241205,XLE,37,Paramedico
+45,Jill Haas,1986/04/10,U50608611,LAW,48,Paramedico
+47,Michael Compton,1980/01/07,T63857772,COG,47,Paramedico
+2,Melissa Jimenez,1998/12/18,W08204144,KAI,141,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,148,Tripulante de Cabina
+48,Alex Walsh,1985/12/12,W59287703,LAW,97,Tripulante de Cabina
+49,Kenneth Brady,1981/11/06,O21522167,LUD,34,Paramedico
+19,Desiree Williams,1993/03/19,Z32250364,XLE,135,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,COG,129,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,BTA,81,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,97,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,LAM,109,Tripulante de Cabina
+50,Adam Herrera,1976/12/04,Y37241205,UAN,5,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,KAI,139,Tripulante de Cabina
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,75,Paramedico
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,134,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LAM,109,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,UCA,55,Tripulante de Cabina
+47,Michael Compton,1980/01/07,T63857772,ETA,76,Paramedico
+45,Jill Haas,1986/04/10,U50608611,LAW,52,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,57,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,LUD,45,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,LAW,9,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,LRC,70,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,EAL,74,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,KAI,138,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,LAT,11,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,39,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,NCY,122,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,KAI,137,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,ADC,87,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,LAW,96,Tripulante de Cabina
+45,Jill Haas,1986/04/10,U50608611,MPH,92,Paramedico
+42,Deborah Martinez,1987/02/03,G18065401,KAI,115,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAW,82,Paramedico
+4,Diane Swanson,1974/02/14,F08731569,LAW,2,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,UAN,108,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,BTA,128,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,XLE,135,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,COG,36,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,14,Tripulante de Cabina
+39,Patricia Norris,1974/12/08,Y69764268,QAF,106,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,ADC,80,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,LAW,2,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,NCY,22,Paramedico
+50,Adam Herrera,1976/12/04,Y37241205,BTA,68,Paramedico
+5,Miguel Oliver,1992/08/27,E21376006,AZI,19,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,KAI,140,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,KEA,7,Paramedico
+56,Isaiah Riley,1986/09/18,W12727804,KAI,136,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,BTA,29,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,LUD,64,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,ADC,119,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,XLE,84,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,LRC,130,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,LUD,121,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,ADC,119,Paramedico
+16,Tracey Harris,1978/06/05,C97271665,ETA,41,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,BTA,27,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,KAI,28,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,KEA,113,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,IBE,46,Paramedico
+49,Kenneth Brady,1981/11/06,O21522167,LUD,45,Paramedico
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,96,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,XLE,125,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,51,Paramedico
+45,Jill Haas,1986/04/10,U50608611,MPH,118,Paramedico
+12,Ronnie Moore,1997/01/12,L28170812,ADC,80,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,NCY,22,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,68,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,LAW,48,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,XLE,21,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,KAI,138,Tripulante de Cabina
+1,Melanie Cummings,1980/09/01,J00360904,LUD,6,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,LRC,60,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,145,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,BTA,81,Tripulante de Cabina
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,18,Tripulante de Cabina
+46,Heather Arnold,1999/01/10,Y81323264,KAI,43,Tripulante de Cabina
+38,Gabriel Palmer,1981/08/18,O88716397,UAN,99,Piloto              
+32,Darrell Henderson,1975/03/14,I87476188,UCA,148,Paramedico
+4,Diane Swanson,1974/02/14,F08731569,KAI,115,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAW,26,Tripulante de Cabina
+28,Nicholas Simmons,1994/08/03,W03439988,LAT,67,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,LUD,50,Tripulante de Cabina
+58,Samuel Jimenez,1984/01/07,B79815379,UAN,99,Tripulante de Cabina
+52,Sara Sims,1999/07/10,F00773862,KAI,53,Paramedico
+11,David Tran,1975/08/07,B62958600,LAT,134,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,LAW,9,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,KEA,20,Paramedico
+51,Kristina Gilmore,1985/12/13,B29047250,LAW,48,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,LAT,83,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,LAW,96,Paramedico
+19,Desiree Williams,1993/03/19,Z32250364,LUD,34,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,LAW,48,Tripulante de Cabina
+42,Deborah Martinez,1987/02/03,G18065401,LRC,24,Tripulante de Cabina
+40,Brian Berry,1998/12/22,N92528667,NCY,23,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,QAF,31,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,AZI,49,Tripulante de Cabina
+26,Elizabeth Jordan,1974/09/16,S70038299,LAW,82,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,KAI,138,Tripulante de Cabina
+14,Ronnie Macias,1988/02/12,J06543685,EAL,74,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,ETA,69,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,UCA,72,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,UCA,107,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,LUD,34,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,UCA,146,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,KAI,138,Tripulante de Cabina
+13,Bradley Glenn,1975/10/17,U87751971,KEA,3,Tripulante de Cabina
+45,Jill Haas,1986/04/10,U50608611,EAL,117,Paramedico
+18,Michael Chavez,1976/08/28,O16330677,BTA,128,Tripulante de Cabina
+20,James Singleton,1977/08/12,U46471214,LRC,130,Paramedico
+35,Francisco Rich,1996/02/21,D89562085,QAF,15,Paramedico
+22,Rodney Wilson,1973/10/18,R08362516,KAI,137,Tripulante de Cabina
+32,Darrell Henderson,1975/03/14,I87476188,QAF,42,Paramedico
+40,Brian Berry,1998/12/22,N92528667,LAT,100,Paramedico
+46,Heather Arnold,1999/01/10,Y81323264,KAI,139,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,LUD,64,Paramedico
+47,Michael Compton,1980/01/07,T63857772,LAM,0,Paramedico
+39,Patricia Norris,1974/12/08,Y69764268,LAW,97,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,KAI,137,Tripulante de Cabina
+16,Tracey Harris,1978/06/05,C97271665,ETA,69,Tripulante de Cabina
+33,Samantha Mora,1990/10/27,P24467352,BTA,29,Tripulante de Cabina
+22,Rodney Wilson,1973/10/18,R08362516,KAI,38,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,ETA,10,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,NCY,62,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,29,Tripulante de Cabina
+43,Rebecca Valenzuela,1971/08/18,G17571521,ADC,127,Paramedico
+27,Steven Hernandez,1997/11/18,Z48029074,AZI,19,Paramedico
+14,Ronnie Macias,1988/02/12,J06543685,BTA,91,Tripulante de Cabina
+19,Desiree Williams,1993/03/19,Z32250364,XLE,58,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,BTA,81,Tripulante de Cabina
+4,Diane Swanson,1974/02/14,F08731569,KAI,140,Tripulante de Cabina
+5,Miguel Oliver,1992/08/27,E21376006,UAN,108,Tripulante de Cabina
+2,Melissa Jimenez,1998/12/18,W08204144,BTA,4,Tripulante de Cabina
+12,Ronnie Moore,1997/01/12,L28170812,ADC,56,Tripulante de Cabina
+30,Daniel Callahan,1987/09/13,X88103341,UCA,55,Paramedico
+50,Adam Herrera,1976/12/04,Y37241205,LAW,16,Paramedico
+13,Bradley Glenn,1975/10/17,U87751971,KAI,8,Tripulante de Cabina
+56,Isaiah Riley,1986/09/18,W12727804,IBE,124,Tripulante de Cabina
+11,David Tran,1975/08/07,B62958600,LAT,100,Tripulante de Cabina
+18,Michael Chavez,1976/08/28,O16330677,BTA,68,Tripulante de Cabina
+53,Patricia Alvarado,1983/08/01,P27318304,BTA,128,Paramedico

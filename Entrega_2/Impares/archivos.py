@@ -24,7 +24,7 @@ def modificar_csv_trabajadores(trabajadores_CSV, vuelos_CSV):
         csv_reader = csv.reader(csv_file)
         # Passing the cav_reader object to list() to get a list of lists
         lista_trabajadores = list(csv_reader)
-     # Segundo, abrimos el CSV de vuelos y lo convertimos en una lista de lista
+    # Segundo, abrimos el CSV de vuelos y lo convertimos en una lista de lista
     with open('CSV/vuelos.csv', 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
         # Passing the cav_reader object to list() to get a list of lists
@@ -36,11 +36,12 @@ def modificar_csv_trabajadores(trabajadores_CSV, vuelos_CSV):
             continue
         else:
             lista_trabajadores[i][2] = datetime.strptime(lista_trabajadores[i][2], '%d-%m-%Y')
-            lista_trabajadores[i][2] = datetime.strftime(lista_trabajadores[i][2],'%d/%m/%Y')
+            lista_trabajadores[i][2] = datetime.strftime(lista_trabajadores[i][2],'%Y/%m/%d')
     
     # Posteriormente, ponemos NULL a todos los valores vacios
     for i in range(len(lista_trabajadores)):
         for j in range(len(lista_trabajadores[i])):
+            print(lista_trabajadores[i][2])
             if lista_trabajadores[i][j] == '':
                 lista_trabajadores[i][j] = 'NULL'
     
@@ -70,9 +71,9 @@ def modificar_csv_vuelos(archivo_CSV):
             continue
         else:
             lista_vuelos[i][7] = datetime.strptime(lista_vuelos[i][7], '%Y-%m-%d %H:%M:%S')
-            lista_vuelos[i][7] = datetime.strftime(lista_vuelos[i][7],'%d/%m/%Y %H:%M:%S')
+            lista_vuelos[i][7] = datetime.strftime(lista_vuelos[i][7],'%Y/%m/%d %H:%M:%S')
             lista_vuelos[i][8] = datetime.strptime(lista_vuelos[i][8], '%Y-%m-%d %H:%M:%S')
-            lista_vuelos[i][8] = datetime.strftime(lista_vuelos[i][8],'%d/%m/%Y %H:%M:%S')
+            lista_vuelos[i][8] = datetime.strftime(lista_vuelos[i][8],'%Y/%m/%d %H:%M:%S')
     # Posteriormente, ponemos NULL a todos los valores vacios
     for i in range(len(lista_vuelos)):
         for j in range(len(lista_vuelos[i])):
@@ -101,12 +102,12 @@ def modificar_csv_reservas(archivo_CSV):
                 continue
             else:
                 lista_reservas[i][7] = datetime.strptime(lista_reservas[i][7], '%d-%m-%Y')
-                lista_reservas[i][7] = datetime.strftime(lista_reservas[i][7],'%d/%m/%Y')
+                lista_reservas[i][7] = datetime.strftime(lista_reservas[i][7],'%Y/%m/%d')
             if lista_reservas[i][14] == '':
                 continue
             else:
                 lista_reservas[i][14] = datetime.strptime(lista_reservas[i][14], '%d-%m-%Y')
-                lista_reservas[i][14] = datetime.strftime(lista_reservas[i][14],'%d/%m/%Y')
+                lista_reservas[i][14] = datetime.strftime(lista_reservas[i][14],'%Y/%m/%d')
     # Posteriormente, ponemos NULL a todos los valores vacios
     for i in range(len(lista_reservas)):
         for j in range(len(lista_reservas[i])):
@@ -141,6 +142,7 @@ def crear_nuevos_csv_vuelos(archivo_CSV):
     base_vuelos = base_vuelos.drop(['nombre_aeronave'], axis=1)
     base_vuelos = base_vuelos.drop(['modelo'], axis=1)
     base_vuelos = base_vuelos.drop(['nombre_compania'], axis=1)
+    base_vuelos = base_vuelos.drop(['peso'], axis=1)
     base_vuelos = base_vuelos.drop_duplicates()
     # Se crea un nuevo csv que contiene solo los datos de la compania
     base_compania = archivo_CSV
