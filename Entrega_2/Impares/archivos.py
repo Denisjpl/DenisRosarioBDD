@@ -1,9 +1,10 @@
 from datetime import datetime, date
 import pandas as pd
+import numpy as np
 import csv 
 
 
-def modificar_pilotos(base):
+def modificar_pilotos(base ):
 
     trabajadores_pilotos = base[(base["rol"] == "Piloto") | (base["rol"] == "Copiloto")]
     # trabajadores_pilotos['fecha_nacimiento'] = pd.to_datetime(trabajadores_pilotos['fecha_nacimiento'])
@@ -17,12 +18,17 @@ def modificar_tripulacion(base):
     trabajadores_tripulacion.to_csv('CSV/trabajadores_tripulacion.csv', index = False)
     trabajadores_tripulacion = trabajadores_tripulacion.drop_duplicates()
 
-def modificar_csv_trabajadores(archivo_CSV):
-    # Primero abrimos el csv y lo convertimos en una lista de listas
-    with open(archivo_CSV, 'r') as csv_file:
+def modificar_csv_trabajadores(trabajadores_CSV, vuelos_CSV):
+    # Primero abrimos el csv de trabajadores y lo convertimos en una lista de listas
+    with open(trabajadores_CSV, 'r') as csv_file:
         csv_reader = csv.reader(csv_file)
         # Passing the cav_reader object to list() to get a list of lists
         lista_trabajadores = list(csv_reader)
+     # Segundo, abrimos el CSV de vuelos y lo convertimos en una lista de lista
+    with open('CSV/vuelos.csv', 'r') as csv_file:
+        csv_reader = csv.reader(csv_file)
+        # Passing the cav_reader object to list() to get a list of lists
+        lista_vuelos = list(csv_reader)
 
     # Luego le cambiamos el formato a todas las columnas que tengan fecha
     for i in range(len(lista_trabajadores)):
@@ -37,11 +43,19 @@ def modificar_csv_trabajadores(archivo_CSV):
         for j in range(len(lista_trabajadores[i])):
             if lista_trabajadores[i][j] == '':
                 lista_trabajadores[i][j] = 'NULL'
+    
+    # Despues areglamos y sacamos datos inconsistentes de la base de trabajadores
+    lista_trabajadores_arreglado = []
+    for i in range(len(lista_trabajadores)):
+        for j in range(len(lista_vuelos)):
+            if lista_trabajadores[i][7] == lista_vuelos[j][0] and lista_trabajadores[i][5] == lista_vuelos[j][6]:
+                lista_trabajadores_arreglado.append(lista_trabajadores[i])
+
     # Por ultimo, escribimos el nuevo CSV
     with open('trabajadores_arreglado.csv', 'w', newline='') as student_file:
         writer = csv.writer(student_file)
-        for i in range(len(lista_trabajadores)):
-            writer.writerow(lista_trabajadores[i])
+        for i in range(len(lista_trabajadores_arreglado)):
+            writer.writerow(lista_trabajadores_arreglado[i])
 
 def modificar_csv_vuelos(archivo_CSV):
     # Primero abrimos el csv y lo convertimos en una lista de listas
@@ -151,8 +165,8 @@ def crear_nuevos_csv_vuelos(archivo_CSV):
     base_vuelos.to_csv('CSV/vuelos.csv', index = False)
     base_compania.to_csv('CSV/compania.csv', index = False)
 
-def crear_nuevos_csv_trabajadores(archivo_CSV):
-    base_trabajadores = archivo_CSV
+def crear_nuevos_csv_trabajadores(base_trabajadores):
+    
     base_trabajadores = base_trabajadores.drop(['nombre_compania'], axis=1)
     return base_trabajadores
 
@@ -208,7 +222,7 @@ if __name__ == "__main__":
     vuelos_arreglado = pd.read_csv("vuelos_arreglado.csv")
     crear_nuevos_csv_vuelos(vuelos_arreglado)
     # Creamos todos los csv que provienen de trabajadores
-    modificar_csv_trabajadores('trabajadores.csv')
+    modificar_csv_trabajadores('trabajadores.csv', 'CSV/vuelos.csv')
     trabajadores_arreglado = pd.read_csv('trabajadores_arreglado.csv')
     base_trabajadores = crear_nuevos_csv_trabajadores(trabajadores_arreglado)
     modificar_pilotos(base_trabajadores)
@@ -217,6 +231,5 @@ if __name__ == "__main__":
     modificar_csv_reservas('reservasV2.csv')
     reservas_arreglado = pd.read_csv('reserva_arreglado.csv')
     crear_nuevos_csv_reservas(reservas_arreglado)
-
 
 
