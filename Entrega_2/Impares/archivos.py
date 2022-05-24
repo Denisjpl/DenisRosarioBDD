@@ -182,6 +182,10 @@ def crear_nuevos_csv_reservas(archivo_CSV):
     base_reservas = base_reservas.drop(['nombre_pasajero'], axis=1)
     base_reservas = base_reservas.drop(['nacionalidad_pasajero'], axis=1)
     base_reservas = base_reservas.drop(['fecha_nacimiento_pasajero'], axis=1)
+    base_reservas = base_reservas.drop(['codigo_reserva'], axis=1)
+    base_reservas = base_reservas.drop(['numero_asiento'], axis=1)
+    base_reservas = base_reservas.drop(['clase'], axis=1)
+    base_reservas = base_reservas.drop(['comida_y_maleta'], axis=1)
     base_reservas = base_reservas.drop_duplicates()
     # Se crea el nuevo csv de comprador
     base_comprador = archivo_CSV
@@ -211,11 +215,25 @@ def crear_nuevos_csv_reservas(archivo_CSV):
     base_pasajero = base_pasajero.drop(['clase'], axis=1)
     base_pasajero = base_pasajero.drop(['comida_y_maleta'], axis=1)
     base_pasajero = base_pasajero.drop_duplicates()
+    # Se crea el nuevo csv del ticket
+    base_ticket = archivo_CSV
+    base_ticket = base_ticket.drop(['reserva_id'], axis=1)
+    base_ticket = base_ticket.drop(['vuelo_id'], axis=1)
+    base_ticket = base_ticket.drop(['pasaporte_comprador'], axis=1)
+    base_ticket = base_ticket.drop(['nombre_comprador'], axis=1)
+    base_ticket = base_ticket.drop(['nacionalidad_comprador'], axis=1)
+    base_ticket = base_ticket.drop(['fecha_nacimiento_comprador'], axis=1)
+    base_ticket = base_ticket.drop(['pasaporte_pasajero'], axis=1)
+    base_ticket = base_ticket.drop(['nombre_pasajero'], axis=1)
+    base_ticket = base_ticket.drop(['nacionalidad_pasajero'], axis=1)
+    base_ticket = base_ticket.drop(['fecha_nacimiento_pasajero'], axis=1)
+    base_ticket = base_ticket.drop_duplicates()
 
 
     base_reservas.to_csv('CSV/reservas.csv', index = False)
     base_comprador.to_csv('CSV/cliente_comprador.csv', index = False)
     base_pasajero.to_csv('CSV/cliente_pasajero.csv', index = False)
+    base_ticket.to_csv('CSV/ticket.csv', index = False)
 
 
 if __name__ == "__main__":
