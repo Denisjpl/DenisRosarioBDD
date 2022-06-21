@@ -57,7 +57,7 @@
 
   <h3 align="center"> ¿Quieres ver los ticket de un cliente? </h3>
 
-  <form align="center" action="consultas/codigo_reserva.php" method="post">
+  <form align="center" action="consultas/consulta_codigo_reserva.php" method="post">
     Código de reserva:
     <input type="text" name="codigo_reserva_elegido">
     <br/><br/>
@@ -68,17 +68,8 @@
   <br>
   <br>
 
-  <h3 align="center"> ¿Quieres conocer los Pokemones más altos que: ?</h3>
-
-  <form align="center" action="consultas/consulta_altura.php" method="post">
-    Altura Mínima:
-    <input type="text" name="altura">
-    <br/><br/>
-    <input type="submit" value="Buscar">
-  </form>
-  <br>
-  <br>
-  <br>
+  <p style="text-align:center;">Consulta 4.</p>
+  <h3 align="center"> Aqui estaria nuestra consulta 4, solo si la tuvieramos :(</h3>
 
 </body>
 </html>
