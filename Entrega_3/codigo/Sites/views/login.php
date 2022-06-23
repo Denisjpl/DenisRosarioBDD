@@ -15,5 +15,8 @@
         <input type="password" name="password" placeholder="contraseña" required>
         <button type="submit" name="login"> Iniciar sesión </button>
     </form>
+    <form align="center" action="admin.php" method="get">
+            <input type="submit" value="ADMIN">
+    </form>
 
 </body>

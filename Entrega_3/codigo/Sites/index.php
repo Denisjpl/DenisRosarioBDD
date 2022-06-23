@@ -10,7 +10,7 @@
 ?>
 
 <body>
-    <h1> Ayudantía 4</h1>
+    <h1> Entrega 3</h1>
     <br>
     <?php
         if (!isset($_SESSION['username'])) {
