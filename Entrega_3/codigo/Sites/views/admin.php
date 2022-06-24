@@ -49,10 +49,35 @@
                 <td>$dC[10]</td> 
                 <td>$dC[11]</td> 
                 <td>$dC[12]</td> 
-                <td><FORM ACTION='modificar_estado.php' METHOD='POST'><input type='submit' name=$dC[0] value='Aceptar/rechazar'/></FORM></td>
+                <td>
+                    <form action='aceptar_estado.php' method='post'>
+                    <input type='hidden' name='id_vuelo' value= $dC[0]>
+                    <input type='submit' class='btn btn-primary btn-sm' value='Aceptar'>
+                    </form>
+                </td>
+                <td>
+                    <form action='rechazar_estado.php' method='post'>
+                    <input type='hidden' name='id_vuelo' value= $dC[0]>
+                    <input type='submit' class='btn btn-primary btn-sm' value='Rechazar'>
+                    </form>
+                </td>
             </tr>";
     }
     ?>
     </table>
 
 </body>
+
+<!-- <td><FORM ACTION='modificar_estado.php' METHOD='POST'><input type='submit' name=$dC[0] value='Aceptar/rechazar'/></FORM></td> -->
+
+if($dataCollected[0] == $rut){
+            $_SESSION['valid'] = true;
+            $_SESSION['timeout'] = time();
+            $_SESSION['username'] = $_POST['username'];
+            $_SESSION['password'] = $_POST['password'];
+            $msg = "Sesión iniciada correctamente";
+            header("Location: ../index.php?msg=$msg");
+        } else{
+            $msg = "Sesión iniciada correctamente";
+            header("Location: admin.php?msg=$msg");
+        }

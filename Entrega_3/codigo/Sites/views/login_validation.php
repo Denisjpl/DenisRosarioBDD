@@ -1,20 +1,35 @@
 <?php
-	ob_start();
 	session_start();
+	$msg = $_GET['msg']
 ?>
 
-<?php
-    $msg = '';
-    if (isset($_POST['login']) && !empty($_POST['username']) && !empty($_POST['password']))
-    {
-        $rut = $_POST['username'];
-        $user_password = $_POST['password'];
-        $_SESSION['valid'] = true;
-        $_SESSION['timeout'] = time();
-        $_SESSION['username'] = $_POST['username'];
-        $_SESSION['password'] = $_POST['password'];
+<?php include('../templates/header.html'); ?>
 
-        $msg = "Sesión iniciada correctamente";
-        header("Location: ../index.php?msg=$msg");
+<body>
+    <h1>Pagina del login validation </h1>
+	<?php
+    require("../config/conection.php"); #Llama a conexión, crea el objeto PDO y obtiene la variable $db
+    $username = $_POST['username'];
+    $user_password = $_POST['password'];
+
+    $query = "SELECT COUNT(*) val_count FROM usuarios where username='IBE';";
+    $result = $db -> prepare($query);
+    $result -> execute();
+    $dataCollected = $result -> fetchAll(); #Obtiene todos los resultados de la consulta en forma de un arreglo
+    ?>
+
+    <table>
+        <tr>
+            <th>Vuelo id</th>
+        </tr>
+    <?php
+        foreach ($dataCollected as $dC) {
+        echo "<tr> 
+                <td>$dC[0]</td> 
+            </tr>";
     }
-?>
+    print("Este es el numero de confirmacion: $confirmacion");
+    ?>
+    </table>
+
+</body>

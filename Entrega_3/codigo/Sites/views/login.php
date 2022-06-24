@@ -6,7 +6,7 @@
 <?php include('../templates/header.html'); ?>
 
 <body>
-    <h1>Pagina de login</h1>
+    <h1>Pagina de login 33344</h1>
 	<h3> Ingrese nombre de usuario y contraseña </h3>
 	<br>
     <form class="form-signin" role="form" action="login_validation.php" method="post">
